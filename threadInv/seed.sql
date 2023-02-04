@@ -1,0 +1,1 @@
+INSERT INTO amounts (amount) VALUES ('New', 'Most', 'Half', 'Some', 'Mostly gone');
